@@ -9,3 +9,4 @@ Este proyecto implementa un **Caso de Estudio Académico (CEA)** centrado en la 
 - **Tests:** Pruebas de dominio.
 - **Docs:** Glosario y diagramas.
 
+docs: actualizar README con explicación de arquitectura
